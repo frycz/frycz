@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+[Blog](https://frycz.github.io/)
+
+[NPM packages](https://www.npmjs.com/~frycz)
+
+[PyPI packages](https://pypi.org/user/frycz/)
+
 <!--
 **frycz/frycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
