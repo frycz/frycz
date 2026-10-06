@@ -1,16 +1,10 @@
-## Hi there 👋
+## Hi, I'm Adam 👋
 
 **I'll help your business deliver long-term value by engineering products that clients pay for.**
 
 AI writes the code now. My job is everything around it: understanding the business, turning problems into requirements, shaping solutions, designing architecture, and guiding AI to build the right thing the right way.
 
-[Blog](https://frycz.github.io/)
-
-[PyPI packages](https://pypi.org/user/frycz/)
-
-[Cargo packages](https://crates.io/users/frycz)
-
-[NPM packages](https://www.npmjs.com/~frycz)
+[Blog](https://frycz.github.io/) ⋅ [PyPI packages](https://pypi.org/user/frycz/) ⋅ [Cargo packages](https://crates.io/users/frycz) ⋅ [NPM packages](https://www.npmjs.com/~frycz)
 
 <!--
 **frycz/frycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
