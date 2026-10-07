@@ -6,7 +6,13 @@ AI writes the code now. My job is everything around it: understanding the busine
 
 ---
 
-[Blog](https://frycz.github.io/) ⋅ [PyPI packages](https://pypi.org/user/frycz/) ⋅ [Cargo packages](https://crates.io/users/frycz) ⋅ [NPM packages](https://www.npmjs.com/~frycz)
+Social: [Blog](https://frycz.github.io/) ⋅ [LInkedIn](https://www.linkedin.com/in/adam-sawicki-a3873788/)
+
+Apps: [GeoTraders](https://geotraders.app/) ⋅ [Simple Calories](https://play.google.com/store/apps/details?id=com.frycz.simplecalories)
+
+Packages: [PyPI packages](https://pypi.org/user/frycz/) ⋅ [Cargo packages](https://crates.io/users/frycz) ⋅ [NPM packages](https://www.npmjs.com/~frycz)
+
+A song: [End of Summer](https://www.youtube.com/watch?v=t6wDXcNWb54)
 
 ---
 
@@ -14,7 +20,7 @@ AI writes the code now. My job is everything around it: understanding the busine
 
 **Long-Term Value** = **Valuable Offering** × **Efficient Delivery** × **Growth** × **Resilience** × **Adaptability**
 
-The pillars multiply. If one is zero, the business is worth nothing.
+The pillars multiply, if one is zero, the business is worth nothing.
 Every decision I make strengthens at least one pillar without weakening another.
 
 ### How I build each pillar
@@ -56,5 +62,5 @@ Every decision I make strengthens at least one pillar without weakening another.
 
 ---
 
-Let's talk.
+Let's talk: frycz.dev@gmail.com.
 
