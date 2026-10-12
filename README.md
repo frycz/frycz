@@ -30,5 +30,5 @@ A song: [End of Summer](https://www.youtube.com/watch?v=t6wDXcNWb54)
 
 ---
 
-Let's talk: frycz.dev@gmail.com.
+Let's talk: frycz.dev@gmail.com
 
