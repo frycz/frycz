@@ -1,6 +1,6 @@
 ## Hi, I'm Adam 👋
 
-**I'll help your business deliver long-term value by engineering products that clients pay for.**
+**I help companies deliver long-term value by engineering products that clients pay for.**
 
 AI writes the code now. My job is everything around it: understanding the business, turning problems into requirements, shaping solutions, designing architecture, and guiding AI to build the right thing the right way. [Learn more](MODEL.md)
 
