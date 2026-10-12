@@ -30,5 +30,15 @@ A song: [End of Summer](https://www.youtube.com/watch?v=t6wDXcNWb54)
 
 ---
 
+### About me
+
+I am a software engineer with over 13 years of professional experience. During that time, I worked on a variety of web-oriented projects with different architectures, approaches and technologies. Examples are: medical software, e-commerce platforms, ETL pipelines and more. I have also written C and C++, so I am no stranger to low-level memory management and optimization.
+
+In my current project (an ETL pipeline) I design and implement technical strategies, lead engineering teams through feature delivery, and mentor developers as they grow.
+
+In my free time I experiment with AI by building small tools and apps, watching where coding agents really break and working out what actually makes them reliable.
+
+---
+
 Let's talk: frycz.dev@gmail.com
 
